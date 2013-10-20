@@ -19,5 +19,3 @@ set number
 " replace tab with 2 spaces.
 set expandtab
 set tabstop=2
-
-vnoremap <C-s> :sort <CR>

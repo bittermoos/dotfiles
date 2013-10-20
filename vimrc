@@ -19,8 +19,3 @@ set number
 " replace tab with 2 spaces.
 set expandtab
 set tabstop=2
-
-set foldmethod=indent
-nnoremap <space> za
-
-vnoremap <space> zf
